@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project ID="Arma2">
+  <Package ID="Missions">
+    <Container ID="SerP">
+<!-- Название миссии -->
+ 	<Key ID="STR_SerP_missionname">
+		<Original>
+		SerP
+		</Original>
+	</Key> 
+ 	<Key ID="STR_SerP_author">
+		<Original>
+		conKORD
+		</Original>
+	</Key> 
+ 	<Key ID="STR_SerP_missionDescription">
+		<Original>
+		Blackjack and Hookers
+		</Original>
+	</Key> 
+<!-- информация для всех -->
+ 	<Key ID="STR_SerP_brief">
+		<Original>
+		Краткое описание миссии
+		</Original>
+	</Key> 
+ 	<Key ID="STR_SerP_changes">
+		<Original>
+		изменения в миссии
+		</Original>
+	</Key> 
+	<Key ID="STR_SerP_credits">
+		<Original>
+		Автор миссии:&lt;br/&gt;
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_convent">
+		<Original>
+		Описание работы триггеров и т.п.
+		</Original>
+	</Key>
+<!-- информация для прессы -->
+	<Key ID="STR_SerP_situation_tv">
+		<Original>
+		Описание ситуации для прессы.
+		</Original>
+	</Key>
+<!-- информация для bluefor -->
+	<Key ID="STR_SerP_situation_bf">
+		<Original>
+		Описание ситуации для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_task_bf">
+		<Original>
+		Задачи для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_execution_bf">
+		<Original>
+		Выполнение для синей стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_machinery_bf">
+		<Original>
+		Вооружение синей стороны.
+		&lt;br/&gt;&lt;br/&gt;Пример:
+		&lt;br/&gt;&lt;br/&gt;HQ Rangers:
+		&lt;br/&gt;- 2x Doomsday device
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_enemy_bf">
+		<Original>
+		Информация о противнике для синей стороны.
+		</Original>
+	</Key>
+<!-- информация для redfor -->
+	<Key ID="STR_SerP_situation_rf">
+		<Original>
+		Описание ситуации для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_task_rf">
+		<Original>
+		Задачи для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_machinery_rf">
+		<Original>
+		Вооружение красной стороны.
+		&lt;br/&gt;&lt;br/&gt;Пример:
+		&lt;br/&gt;&lt;br/&gt;Управление:
+		&lt;br/&gt;- 2x Doomsday device
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_execution_rf">
+		<Original>
+		Выполнение для красной стороны.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_enemy_rf">
+		<Original>
+		Информация о противнике для красной стороны.
+		</Original>
+	</Key>
+<!-- информация для независимых -->
+	<Key ID="STR_SerP_situation_guer">
+		<Original>
+		Описание ситуации для независимых.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_task_guer">
+		<Original>
+		Задачи для независимых.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_machinery_guer">
+		<Original>
+		Вооружение независимых.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_execution_guer">
+		<Original>
+		Выполнение для независимых.
+		</Original>
+	</Key>
+	<Key ID="STR_SerP_enemy_guer">
+		<Original>
+		Информация о противнике для независимых.
+		</Original>
+	</Key>
+    </Container>
+  </Package>
+</Project>
