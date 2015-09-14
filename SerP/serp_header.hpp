@@ -21,13 +21,16 @@ respawn = 1;
 respawndelay = 3;
 respawnButton = 0;
 class Header	{
-	gameType = Unknown;
+	gameType = Coop; //Unknown
 	minPlayers = 1;
 	maxPlayers = 200;
 };
 joinUnassigned = 1;
 disableChannels[] = {0,2,3,5,6};
 
-author=$STR_SerP_author;
+author = $STR_SerP_author;
 OnLoadName = $STR_SerP_missionname;
 OnLoadMission = $STR_SerP_missionDescription;
+loadScreen = "intro.paa";
+
+forceRotorLibSimulation = 1;
